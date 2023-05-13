@@ -32,8 +32,8 @@ Raphael Chookagian
   <br>
   [Github](https://github.com/cesarderio)
   <br>
-666
-[Team Agreement](./TeamAgreement.md)i
+
+[Team Agreement](./TeamAgreement.md)
 
 [System Selection](./SystemSelection.md)
 
