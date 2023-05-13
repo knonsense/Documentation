@@ -12,7 +12,7 @@
 | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
 | [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
 
-## [Presentations](https://github.com/knonsense/Presentations)
+## Presentations
 
 [SlideShows](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
 
@@ -21,6 +21,12 @@
 ## Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
+
+## Repositories
+
+[Documentation](https://github.com/knonsense/Documentation)
+
+[Presentations](https://github.com/knonsense/Presentations)
 
 [Scripts Repository](https://github.com/knonsense/Scripts)
 
