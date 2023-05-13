@@ -2,6 +2,11 @@
 
 ## Team KnonSense Members
 
+  | Ed Ayala | Reeya Karki |  |
+  |:----------------------:|:-----------------------:|:----------------------:|
+  | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) |  |
+  | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) |  |
+
 Ed Ayala
   <br>
   [Linkedin](https://www.linkedin.com/in/eddie-ayala3/)
