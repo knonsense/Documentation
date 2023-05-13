@@ -24,6 +24,8 @@
 
 * They may want to make this central data storage solution accessible remotely in the future, but that is not a current need.
 
+<br>
+
 [201 Project Requirements](https://codefellows.github.io/seattle-ops-201d8/class-15/project-requirements.html)
 
 ## Systems Selection
@@ -34,13 +36,16 @@ Create a high-level list of systems, platforms, or tools you’re going to imple
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+* *In other words, what value does this add to your client?*
+* *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+
+### **Minimum Viable Product (MVP) definition.**
+
+* *What is the minimum required for you to present on your demo day?*
 
 <br>
 
@@ -60,13 +65,11 @@ A.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
 
 <br>
 
@@ -74,13 +77,11 @@ B.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
 
 ## Platforms
 
@@ -88,13 +89,11 @@ A.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
 
 <br>
 
@@ -102,13 +101,11 @@ B.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
 
 ## Tools
 
@@ -116,13 +113,11 @@ A.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
 
 <br>
 
@@ -130,10 +125,8 @@ B.
 
 <br>
 
-**How does it fit into your scenario’s requirements?**
+### **How does it fit into your scenario’s requirements?**
 
-**What problem or pain point does it solve? In other words, what value does this add to your client?**
-  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+### **What problem or pain point does it solve?**
 
-***Minimum Viable Product (MVP) definition.***
-  *What is the minimum required for you to present on your demo day?*
+### **Minimum Viable Product (MVP) definition.**
