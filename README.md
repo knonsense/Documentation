@@ -7,9 +7,9 @@
   | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin]()  |
   | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github]()  |
 
-    | Dustin Haggett | Raphael Chookagian |  test  |
+  | Dustin Haggett | Raphael Chookagian |  test  |
   |:----------------------:|:-----------------------:|:-------------------:|
-  | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |  [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | test  |
+  | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | test  |
   | [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) |  test   |
 
 Ed Ayala
