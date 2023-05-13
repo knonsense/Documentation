@@ -40,10 +40,14 @@ Create a high-level list of systems, platforms, or tools you’re going to imple
 
 ### **How does it fit into your scenario’s requirements?**
 
+<br>
+
 ### **What problem or pain point does it solve?**
 
 * *In other words, what value does this add to your client?*
 * *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+
+<br>
 
 ### **Minimum Viable Product (MVP) definition.**
 
@@ -85,6 +89,26 @@ B.
 
 <br>
 
+C.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+D.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
 ## Platforms
 
 A.
@@ -98,6 +122,26 @@ A.
 <br>
 
 B.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+C.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+D.
 
 ### **How does it fit into your scenario’s requirements?**
 
@@ -126,3 +170,25 @@ B.
 ### **What problem or pain point does it solve?**
 
 ### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+C.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+D.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
