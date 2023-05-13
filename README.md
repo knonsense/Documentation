@@ -9,8 +9,8 @@
 
 | Dustin Haggett | Raphael Chookagian | <https://github.com/knonsense/Documentation> |
 |:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | test |
-| [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | test |
+| [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
+| [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
 
 | Documentation | Presentations | Scripts | Slideshow |
 |:----------------------:|:-----------------------:|:-------------------:|:----------------:|
