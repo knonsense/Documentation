@@ -61,9 +61,9 @@ Create a high-level list of systems, platforms, or tools you’re going to imple
 
 ## Systems
 
-A.
-
 <br>
+
+A.
 
 ### **How does it fit into your scenario’s requirements?**
 
@@ -74,8 +74,6 @@ A.
 <br>
 
 B.
-
-<br>
 
 ### **How does it fit into your scenario’s requirements?**
 
@@ -89,8 +87,6 @@ B.
 
 A.
 
-<br>
-
 ### **How does it fit into your scenario’s requirements?**
 
 ### **What problem or pain point does it solve?**
@@ -100,8 +96,6 @@ A.
 <br>
 
 B.
-
-<br>
 
 ### **How does it fit into your scenario’s requirements?**
 
@@ -115,8 +109,6 @@ B.
 
 A.
 
-<br>
-
 ### **How does it fit into your scenario’s requirements?**
 
 ### **What problem or pain point does it solve?**
@@ -126,8 +118,6 @@ A.
 <br>
 
 B.
-
-<br>
 
 ### **How does it fit into your scenario’s requirements?**
 
