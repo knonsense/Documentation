@@ -14,63 +14,93 @@ Raphael Chookagian
 
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 Describe at least:
-What are the key strengths of each person on the team?
+
+***What are the key strengths of each person on the team?***
+
 *Ed Ayala:*
-Committed to the process, basic tech skills, Research
+
+* Committed to the process, basic tech skills, Research
+
 *Reeya Karki*
-Adaptability , multitasking and very basic technical skills which I hope I can be a help to my team.
+
+* Adaptability , multitasking and very basic technical skills which I hope I can be a help to my team.
+
 *Adrian Mundo*
 
+*
+
 *Dustin Haggett*
-Business background; basic technical skills with understanding of systems used in project; resourceful
+
+* Business background; basic technical skills with understanding of systems used in project; resourceful
 
 *Raphael Chookagian*
-Web Dev experience and tech background.
-How can you best utilize these strengths in the execution of your project?
+
+* Web Dev experience and tech background.
+
+***How can you best utilize these strengths in the execution of your project?**
 
 *Ed Ayala*
-Reliable focused efforts, a team mindset to contribute where I can. Will maximize our resources.
+
+* Reliable focused efforts, a team mindset to contribute where I can. Will maximize our resources.
 
 *Reeya Karki*
-I can put in extra effort and time for the project completion.
+
+* I can put in extra effort and time for the project completion.
+
 *Adrian Mundo*
 
+*
+
 *Dustin Haggett*
-I can make suggestions in terms of tools and other ideas for working efficiently as a team
+
+* I can make suggestions in terms of tools and other ideas for working efficiently as a team
 
 *Raphael Chookagian*
-I have experience using many of the programs we will be using for the presentation and task completions.
+
+* I have experience using many of the programs we will be using for the presentation and task completions.
 
 ***In which professional competencies do you each want to develop greater strength?***
 
 *Ed Ayala*
-Leadership skills outside the military network.
+
+* Leadership skills outside the military network.
 
 *Reeya Karki*
-I am looking forward to enhancing my overall communication skills.
+
+* I am looking forward to enhancing my overall communication skills.
 
 *Adrian Mundo*
 
+*
+
 *Dustin Haggett*
-I’d like to improve communication skills more than anything; leadership skills as secondary
+
+* I’d like to improve communication skills more than anything; leadership skills as secondary
 
 *Raphael Chookagian*
-I would like to improve my communication and networking.
-Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+
+* I would like to improve my communication and networking.
+
+***Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?***
 
 *Ed Ayala*
-This is not a solo fight,  will contribute and support the team.
+
+* This is not a solo fight,  will contribute and support the team.
 
 *Reeya Karki*
-I will give my best to research, learn and communicate effectively with my team.
+
+* I will give my best to research, learn and communicate effectively with my team.
 
 *Adrian Mundo*
+*
 
 *Dustin Haggett*
-I am going to make an effort to be available and flexible to not hold back the team in any way. I’ll also work to communicate clear expectations for myself and all around.
+
+* I am going to make an effort to be available and flexible to not hold back the team in any way. I’ll also work to communicate clear expectations for myself and all around.
 
 *Raphael Chookagian*
-I have found that it is best if everyone works together from the beginning and keeps pace throughout the project. Stand-ups each morning should set the tone and pace for the day with clear goals and tasks to complete for the day.
+
+* I have found that it is best if everyone works together from the beginning and keeps pace throughout the project. Stand-ups each morning should set the tone and pace for the day with clear goals and tasks to complete for the day.
 
 *NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.*
 
@@ -100,7 +130,7 @@ I have found that it is best if everyone works together from the beginning and k
 
 ***What hours will you be available to communicate?***
 
-* 9am - 5pm (M-F) available via Slack.  Case-by-Case
+* 9am - 5pm (M-F PST) available via Slack.  Case-by-Case
 
 ***What platforms will you use to communicate (ie. Slack, Discord …)?***
 
