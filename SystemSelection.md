@@ -52,59 +52,74 @@
 ## Systems
 
 A.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
 
+* ***Minimum Viable Product (MVP) definition.***
+
+<br>
 B.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+
+* ***Minimum Viable Product (MVP) definition.***
 
 ## Platforms
 
 A.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
 
+* ***Minimum Viable Product (MVP) definition.***
+
+<br>
 B.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+
+* ***Minimum Viable Product (MVP) definition.***
 
 ## Tools
 
 A.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
 
+* ***Minimum Viable Product (MVP) definition.***
+
+<br>
 B.
-  ***How does it fit into your scenario’s requirements?***
+<br>
 
-  ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+* ***How does it fit into your scenario’s requirements?***
 
-  ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
 
-  ***Minimum Viable Product (MVP) definition.***
+* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+
+* ***Minimum Viable Product (MVP) definition.***
