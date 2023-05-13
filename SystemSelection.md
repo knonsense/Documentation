@@ -28,6 +28,8 @@
 
 [201 Project Requirements](https://codefellows.github.io/seattle-ops-201d8/class-15/project-requirements.html)
 
+<br>
+
 ## Systems Selection
 
 Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
