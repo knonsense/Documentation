@@ -28,7 +28,7 @@
 
 [Presentations](https://github.com/knonsense/Presentations)
 
-[Scripts Repository](https://github.com/knonsense/Scripts)
+[Scripts](https://github.com/knonsense/Scripts)
 
 This repository will hold all of our documentation for seattle-ops-201d8 final group project for group KnonSense.
 
