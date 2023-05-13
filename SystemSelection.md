@@ -83,6 +83,8 @@ B.
 
 ### **Minimum Viable Product (MVP) definition.**
 
+<br>
+
 ## Platforms
 
 A.
@@ -106,6 +108,8 @@ B.
 ### **What problem or pain point does it solve?**
 
 ### **Minimum Viable Product (MVP) definition.**
+
+<br>
 
 ## Tools
 
