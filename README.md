@@ -3,11 +3,11 @@
 ## Team KnonSense Members
 
 | Ed Ayala | Reeya Karki | Adrian Mundo |
-|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+|:----------------------:|:-----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin](https://www.linkedin.com) |
 | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github](https://github.com) |
 
-| Dustin Haggett | Raphael Chookagian | test |
+| Dustin Haggett | Raphael Chookagian | <https://github.com/knonsense/Documentation> |
 |:----------------------:|:-----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | test |
 | [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | test |
