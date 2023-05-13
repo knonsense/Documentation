@@ -1,4 +1,4 @@
-# Prepare for Projects: Systems Selection Document
+# Systems Selection Document
 
 ## Scenario and Requirements
 
