@@ -2,10 +2,15 @@
 
 ## Team KnonSense Members
 
-  | Ed Ayala | Reeya Karki |  |
+  | Ed Ayala | Reeya Karki | Adrian Mundo  |
   |:----------------------:|:-----------------------:|:----------------------:|
-  | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) |  |
-  | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) |  |
+  | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin]()  |
+  | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github]()  |
+
+    | Dustin Haggett | Raphael Chookagian |
+  |:----------------------:|:-----------------------:|
+  | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |  [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
+  | [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) |
 
 Ed Ayala
   <br>
