@@ -27,12 +27,14 @@ Raphael Chookagian
   [Github](https://github.com/cesarderio)
   <br>
 
-[this is my lunch](url of picture of lunch)
+[Team Agreement](./TeamAgreement.md)i
 
-[Team Agreement](./TeamAgreement.md)
-[System Selection]()
-Link to the PM tool your team is using to manage tasks.
-Links and explanations for any files in the repo (such as the PDF of your slideshow).
-A link to the video of your presentation (when it becomes available).
+[System Selection](./SystemSelection.md)
+
+[Trello Board](https://trello.com/b/vUcQohwr/project-management)
+
+[SlideShow]()
+
+[Video of your presentation]()
 
 This repository will hold all of our documentation for seattle-ops-201d8 final group project for group KnonSense.
