@@ -28,19 +28,22 @@
 
 ## Systems Selection
 
-*Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.*
+Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
 
-*Create a high-level list of systems, platforms, or tools you’re going to implement for your client. For each, explain:*
+Create a high-level list of systems, platforms, or tools you’re going to implement for your client. For each, explain:
 
-***How does it fit into your scenario’s requirements?***
+<br>
 
-***What problem or pain point does it solve? In other words, what value does this add to your client?***
+**How does it fit into your scenario’s requirements?**
 
-***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
 
 ***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
 
-*What is the minimum required for you to present on your demo day?*
+<br>
+
 *During your pitch, your instructor will help you scope your project.*
 
 *Some features may become MVP and some may become stretch goals.*
@@ -49,77 +52,88 @@
 
 *Scope creep can be dangerous! Keeping your project within a predetermined scope will help the group stay on task without going off on tangents and side features.*
 
+<br>
+
 ## Systems
 
 A.
-<br>
-
-* ***How does it fit into your scenario’s requirements?***
-
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
-
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
 
 <br>
+
+**How does it fit into your scenario’s requirements?**
+
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
+
+<br>
+
 B.
+
 <br>
 
-* ***How does it fit into your scenario’s requirements?***
+**How does it fit into your scenario’s requirements?**
 
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
 
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
 
 ## Platforms
 
 A.
-<br>
-
-* ***How does it fit into your scenario’s requirements?***
-
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
-
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
 
 <br>
+
+**How does it fit into your scenario’s requirements?**
+
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
+
+<br>
+
 B.
+
 <br>
 
-* ***How does it fit into your scenario’s requirements?***
+**How does it fit into your scenario’s requirements?**
 
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
 
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
 
 ## Tools
 
 A.
-<br>
-
-* ***How does it fit into your scenario’s requirements?***
-
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
-
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
 
 <br>
+
+**How does it fit into your scenario’s requirements?**
+
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
+
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
+
+<br>
+
 B.
+
 <br>
 
-* ***How does it fit into your scenario’s requirements?***
+**How does it fit into your scenario’s requirements?**
 
-* ***What problem or pain point does it solve? In other words, what value does this add to your client?***
+**What problem or pain point does it solve? In other words, what value does this add to your client?**
+  *Keep it high level without going into too much detail, 3-4 sentences is enough.*
 
-* ***Keep it high level without going into too much detail, 3-4 sentences is enough.***
-
-* ***Minimum Viable Product (MVP) definition.***
+***Minimum Viable Product (MVP) definition.***
+  *What is the minimum required for you to present on your demo day?*
