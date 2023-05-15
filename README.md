@@ -10,7 +10,7 @@
 | Dustin Haggett | Raphael Chookagian | Documentation |
 |:----------------------:|:-----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
-| [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
+| [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
 
 ## Presentations
 
