@@ -16,9 +16,7 @@
 * Artists work mostly on powerful Mac or Windows workstations, though they also have laptops used for lighter work
   and when filming.
 
-* Managing the many large video and graphics files has been a pain-point. With artists working from home, the
-  stop-gap solution has been a poorly organized shelf of external and internal hard-drives used to move data to and
-  from the founders' home.
+* Managing the many large video and graphics files has been a pain-point. With artists working from home, the stop-gap solution has been a poorly organized shelf of external and internal hard-drives used to move data to and from the founders' home.
 
 * They would like some kind of central data storage solution on site at their office.
 
