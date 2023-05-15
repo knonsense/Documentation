@@ -4,13 +4,13 @@
 
 | Ed Ayala | Reeya Karki | Adrian Mundo |
 |:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin](https://www.linkedin.com) |
-| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github](https://github.com) |
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin](http://linkedin.com/in/adrian-mundo) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github](https://github.com/amundo1) |
 
 | Dustin Haggett | Raphael Chookagian | Documentation |
 |:----------------------:|:-----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
-| [Github](https://github.com/dustinh21) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
+| [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
 
 ## Presentations
 
