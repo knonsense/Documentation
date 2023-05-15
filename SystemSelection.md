@@ -1,4 +1,4 @@
-# Prepare for Projects: Systems Selection Document
+# Systems Selection Document
 
 ## Scenario and Requirements
 
@@ -24,35 +24,194 @@
 
 * They may want to make this central data storage solution accessible remotely in the future, but that is not a current need.
 
+<br>
+
 [201 Project Requirements](https://codefellows.github.io/seattle-ops-201d8/class-15/project-requirements.html)
+
+<br>
 
 ## Systems Selection
 
-*Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.*
+Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
 
-*Create a high-level list of systems, platforms, or tools you’re going to implement for your client. For each, explain:*
+Create a high-level list of systems, platforms, or tools you’re going to implement for your client. For each, explain:
 
-***How does it fit into your scenario’s requirements?***
+<br>
 
-*
+### **How does it fit into your scenario’s requirements?**
 
-***What problem or pain point does it solve? In other words, what value does this add to your client?***
+<br>
 
-*
+### **What problem or pain point does it solve?**
 
-***Keep it high level without going into too much detail, 3-4 sentences is enough.***
+* *In other words, what value does this add to your client?*
+* *Keep it high level without going into too much detail, 3-4 sentences is enough.*
 
-*
+<br>
 
-***Minimum Viable Product (MVP) definition.***
+### **Minimum Viable Product (MVP) definition.**
 
-*
+* *What is the minimum required for you to present on your demo day?*
 
-*What is the minimum required for you to present on your demo day?
-During your pitch, your instructor will help you scope your project.*
+<br>
+
+*During your pitch, your instructor will help you scope your project.*
 
 *Some features may become MVP and some may become stretch goals.*
 
 *Once you are ready, find your instructor and pitch your solution ideas.*
 
 *Scope creep can be dangerous! Keeping your project within a predetermined scope will help the group stay on task without going off on tangents and side features.*
+
+<br>
+
+## Systems
+
+<br>
+
+A. Linux Server/Network
+
+### **How does it fit into your scenario’s requirements?**
+
+Creates a centralized Repository for Data access & storage.
+
+### **What problem or pain point does it solve?**
+
+Eliminates the need for multiple and unorganized storage.
+Creates a centralized Repository for Data access & storage.
+### **Minimum Viable Product (MVP) definition.**
+
+Basic Linux server with storage for data.
+
+<br>
+
+B. Windows Server/Network
+
+### **How does it fit into your scenario’s requirements?**
+
+Creates a centralized Repository for Data access & storage.
+### **What problem or pain point does it solve?**
+
+Creates a centralized Repository for Data access & storage.
+### **Minimum Viable Product (MVP) definition.**
+
+Basic Linux server with storage for data.
+
+<br>
+
+C.
+
+### **How does it fit into your scenario’s requirements?**
+
+Creates a centralized Repository for Data access & storage.
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+D.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+## Platforms
+
+A. Linux
+
+### **How does it fit into your scenario’s requirements?**
+
+Employees use different OS's for thier personal computers
+### **What problem or pain point does it solve?**
+
+Employees use different OS's for thier personal computers
+### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
+
+<br>
+
+B. Windows
+
+### **How does it fit into your scenario’s requirements?**
+
+Employees use different OS's for thier personal computers.
+### **What problem or pain point does it solve?**
+
+Employees use different OS's for thier personal computers.
+### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
+
+<br>
+
+C. Apple
+
+### **How does it fit into your scenario’s requirements?**
+
+Employees use different OS's for thier personal computers.
+### **What problem or pain point does it solve?**
+
+Employees use different OS's for thier personal computers.
+### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
+
+<br>
+
+D.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+## Tools
+
+A. Server
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+B. Storage(NAS/RAID?/ETC)
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+C.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
+
+D.
+
+### **How does it fit into your scenario’s requirements?**
+
+### **What problem or pain point does it solve?**
+
+### **Minimum Viable Product (MVP) definition.**
+
+<br>
