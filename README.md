@@ -14,7 +14,7 @@
 
 ## Presentations
 
-[SlideShows](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
+[SlideShow](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
 
 [Video of presentation]()
 

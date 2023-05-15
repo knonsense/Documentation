@@ -69,23 +69,33 @@ Create a high-level list of systems, platforms, or tools you’re going to imple
 
 <br>
 
-A.
+A. Linux Server/Network
 
 ### **How does it fit into your scenario’s requirements?**
 
+Creates a centralized Repository for Data access & storage.
+
 ### **What problem or pain point does it solve?**
 
+Eliminates the need for multiple and unorganized storage.
+Creates a centralized Repository for Data access & storage.
 ### **Minimum Viable Product (MVP) definition.**
+
+Basic Linux server with storage for data.
 
 <br>
 
-B.
+B. Windows Server/Network
 
 ### **How does it fit into your scenario’s requirements?**
 
+Creates a centralized Repository for Data access & storage.
 ### **What problem or pain point does it solve?**
 
+Creates a centralized Repository for Data access & storage.
 ### **Minimum Viable Product (MVP) definition.**
+
+Basic Linux server with storage for data.
 
 <br>
 
@@ -93,6 +103,7 @@ C.
 
 ### **How does it fit into your scenario’s requirements?**
 
+Creates a centralized Repository for Data access & storage.
 ### **What problem or pain point does it solve?**
 
 ### **Minimum Viable Product (MVP) definition.**
@@ -111,33 +122,45 @@ D.
 
 ## Platforms
 
-A.
+A. Linux
 
 ### **How does it fit into your scenario’s requirements?**
 
+Employees use different OS's for thier personal computers
 ### **What problem or pain point does it solve?**
 
+Employees use different OS's for thier personal computers
 ### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
 
 <br>
 
-B.
+B. Windows
 
 ### **How does it fit into your scenario’s requirements?**
 
+Employees use different OS's for thier personal computers.
 ### **What problem or pain point does it solve?**
 
+Employees use different OS's for thier personal computers.
 ### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
 
 <br>
 
-C.
+C. Apple
 
 ### **How does it fit into your scenario’s requirements?**
 
+Employees use different OS's for thier personal computers.
 ### **What problem or pain point does it solve?**
 
+Employees use different OS's for thier personal computers.
 ### **Minimum Viable Product (MVP) definition.**
+
+Operational OS with Admin/User accounts with Security/Firewall set up.
 
 <br>
 
@@ -153,7 +176,7 @@ D.
 
 ## Tools
 
-A.
+A. Server
 
 ### **How does it fit into your scenario’s requirements?**
 
@@ -163,7 +186,7 @@ A.
 
 <br>
 
-B.
+B. Storage(NAS/RAID?/ETC)
 
 ### **How does it fit into your scenario’s requirements?**
 
