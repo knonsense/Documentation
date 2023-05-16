@@ -37,3 +37,5 @@ This repository will hold all of our documentation for seattle-ops-201d8 final g
 <!-- dustin@iroquois.capital -->
 
 <!-- edayala0323@gmail.com -->
+
+<!-- raphaelchookagian@gmail.com -->
