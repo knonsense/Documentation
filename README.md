@@ -1,6 +1,5 @@
-# Documentation README
-
-## Team KnonSense Members
+Welcome to our Documentation repository! This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below we have also added links to our Trello project management board as well as other related information.
+## Team Members
 
 | Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
@@ -24,12 +23,3 @@
 
 [Scripts](https://github.com/knonsense/Scripts)
 
-This repository will hold all of our documentation for seattle-ops-201d8 final group project for group KnonSense.
-
-<!-- Karki35ree@gmail.com -->
-
-<!-- dustin@iroquois.capital -->
-
-<!-- edayala0323@gmail.com -->
-
-<!-- raphaelchookagian@gmail.com -->
