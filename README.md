@@ -2,7 +2,7 @@
 
 This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below you will find our team members with links to thier Linkedin and Github profiles. We have also added links to our Trello project management board as well as other related information.
 
-## Team Members
+### Team Members
 
 | Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
@@ -14,11 +14,11 @@ This repository will contain all of the documentation related to this project. T
 |  [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
 | [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
-## Project Management
+### Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
-## Repositories
+### Repositories
 
 [Documentation](https://github.com/knonsense/Documentation)
 
