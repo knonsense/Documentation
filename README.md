@@ -2,15 +2,15 @@
 
 ## Team KnonSense Members
 
-| Ed Ayala | Reeya Karki | Adrian Mundo |
+| Ed Ayala | Adrian Mundo | Dustin Haggett |
 |:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin](http://linkedin.com/in/adrian-mundo) |
-| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github](https://github.com/amundo1) |
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) |
 
-| Dustin Haggett | Raphael Chookagian | Documentation |
+| Raphael Chookagian | Documentation | SOPs |
 |:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
-| [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
+| [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
+| [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
 ## Presentations
 
