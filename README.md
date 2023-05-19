@@ -1,39 +1,27 @@
-# Documentation README
+## Welcome to our Documentation repository
 
-## Team KnonSense Members
+This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below you will find our team members with links to thier Linkedin and Github profiles. We have also added links to our Trello project management board as well as other related information.
 
-| Ed Ayala | Reeya Karki | Adrian Mundo |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](https://www.linkedin.com/in/reeyakarki/) | [Linkedin](http://linkedin.com/in/adrian-mundo) |
-| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/reeyakcee) | [Github](https://github.com/amundo1) |
+### Team Members
 
-| Dustin Haggett | Raphael Chookagian | Documentation |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) |
-| [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) |
+| Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
 
-## Presentations
+| Documentation | SOPs |
+|:-----------------------:|:----------------------:|
+|  [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
+| [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
-[SlideShow](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
-
-[Video of presentation]()
-
-## Project Management
+### Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
-## Repositories
+### Repositories
 
 [Documentation](https://github.com/knonsense/Documentation)
 
 [Presentations](https://github.com/knonsense/Presentations)
 
 [Scripts](https://github.com/knonsense/Scripts)
-
-This repository will hold all of our documentation for seattle-ops-201d8 final group project for group KnonSense.
-
-<!-- Karki35ree@gmail.com -->
-
-<!-- dustin@iroquois.capital -->
-
-<!-- edayala0323@gmail.com -->
