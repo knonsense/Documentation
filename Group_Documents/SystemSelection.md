@@ -77,6 +77,7 @@ Creates a centralized Repository for Data access & storage.
 
 Eliminates the need for multiple and unorganized storage.
 Creates a centralized Repository for Data access & storage.
+
 ### **Minimum Viable Product (MVP) definition.**
 
 Basic Linux server with storage for data.
@@ -88,9 +89,11 @@ B. Windows Server/Network
 ### **How does it fit into your scenario’s requirements?**
 
 Creates a centralized Repository for Data access & storage.
+
 ### **What problem or pain point does it solve?**
 
 Creates a centralized Repository for Data access & storage.
+
 ### **Minimum Viable Product (MVP) definition.**
 
 Basic Linux server with storage for data.
@@ -102,6 +105,7 @@ C.
 ### **How does it fit into your scenario’s requirements?**
 
 Creates a centralized Repository for Data access & storage.
+
 ### **What problem or pain point does it solve?**
 
 ### **Minimum Viable Product (MVP) definition.**
@@ -125,9 +129,11 @@ A. Linux
 ### **How does it fit into your scenario’s requirements?**
 
 Employees use different OS's for thier personal computers
+
 ### **What problem or pain point does it solve?**
 
 Employees use different OS's for thier personal computers
+
 ### **Minimum Viable Product (MVP) definition.**
 
 Operational OS with Admin/User accounts with Security/Firewall set up.
@@ -139,9 +145,11 @@ B. Windows
 ### **How does it fit into your scenario’s requirements?**
 
 Employees use different OS's for thier personal computers.
+
 ### **What problem or pain point does it solve?**
 
 Employees use different OS's for thier personal computers.
+
 ### **Minimum Viable Product (MVP) definition.**
 
 Operational OS with Admin/User accounts with Security/Firewall set up.
@@ -153,9 +161,11 @@ C. Apple
 ### **How does it fit into your scenario’s requirements?**
 
 Employees use different OS's for thier personal computers.
+
 ### **What problem or pain point does it solve?**
 
 Employees use different OS's for thier personal computers.
+
 ### **Minimum Viable Product (MVP) definition.**
 
 Operational OS with Admin/User accounts with Security/Firewall set up.

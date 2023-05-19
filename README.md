@@ -1,8 +1,10 @@
-## Welcome to our Documentation repository
+# Welcome to our Documentation repository
 
 This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below you will find our team members with links to thier Linkedin and Github profiles. We have also added links to our Trello project management board as well as other related information.
 
-### Team Members
+<br>
+
+## Team Members
 
 | Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
@@ -19,13 +21,13 @@ This repository will contain all of the documentation related to this project. T
 
 <br>
 
-### Project Management
+## Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
 <br>
 
-### Presentations
+## Presentations
 
 [SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
 
@@ -33,7 +35,7 @@ This repository will contain all of the documentation related to this project. T
 
 <br>
 
-### Repositories
+## Repositories
 
 [Documentation](https://github.com/knonsense/Documentation)
 
