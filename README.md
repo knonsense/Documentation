@@ -1,3 +1,5 @@
+<br>
+
 # Welcome to our Documentation repository
 
 This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below you will find our team members with links to thier Linkedin and Github profiles. We have also added links to our Trello project management board as well as other related information.
@@ -13,9 +15,10 @@ This repository will contain all of the documentation related to this project. T
 
 <br>
 
-| Documentation |
-|:-----------------------:|
+## Documentation
+
 | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
+|:-----------------------:|
 |  [System Selection](./SystemSelection.md) |
 | [Team Agreement](./TeamAgreement.md) |
 
