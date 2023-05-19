@@ -9,7 +9,7 @@ This repository will contain all of the documentation related to this project. T
 | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
 | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
 
-| [Documentation]() |
+| Documentation |
 |:-----------------------:|
 | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
 |  [System Selection](./SystemSelection.md) |
