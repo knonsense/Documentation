@@ -19,7 +19,7 @@ This repository will contain all of the documentation related to this project. T
 
 | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
 |:-----------------------:|
-|  [System Selection](./SystemSelection.md) |
+|  [System Selection](Group_Documents/SystemSelection.md) |
 | [Team Agreement](./TeamAgreement.md) |
 
 <br>
